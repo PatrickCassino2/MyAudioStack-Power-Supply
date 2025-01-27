@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Connector_Generic_1")(type "KiCad")(uri "${KIPRJMOD}/lib/KiCad/Connector_Generic_1.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_1")(type "KiCad")(uri "${KIPRJMOD}/lib/KiCad/Connector_1.kicad_sym")(options "")(descr ""))
+)
